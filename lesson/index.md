@@ -60,7 +60,7 @@ Using computers to make predictions in a given problem space is essential in all
 
 Machine Learning and Big Data tend to be inherently linked concepts. The reason for this is that it necessary to “train” a Machine Learning algorithm with a data set. As more data tends to improve the precision of the model, large data sets are ideal for machine learning algorithms. Further, large data sets often contain valuable information that is difficult for a person to comprehend or visualize. Computers are ideal at analyzing this data and extracting patterns.
 
-Two easy to discuss and visualize machine learning algorithms are k-means clustering and SVM (support vector machine) which can both separate data in a simple 2-dimensional cartesian plane as well as work in higher order dimensions.
+Two easy to discuss and visualize machine learning algorithms are k-means clustering and SVM (support vector machine) which can both separate data in a simple 2-dimensional Cartesian plane as well as work in higher order dimensions.
 
 K-means is an example of an unsupervised learning algorithm. It will produce equations which separate a set of data into a specified number of partitions. K-means does this by using standard mathematical averages and finding the nearest average center to a given point. This is done without the algorithm having access to the true cluster that a given point belongs and hence the algorithm is “unsupervised”.
 
@@ -172,7 +172,7 @@ Students will discuss the findings with the class.
 
 Machine Learning and big data discussion.
 
-Students will research and report on fields that are benefitting from machine learning approaches and how data sets are used within these fields. They will cite specific examples and applications and comment on the findings of other students. This exercise will rely on an academic web-based discussion board.
+Students will research and report on fields that are benefiting from machine learning approaches and how data sets are used within these fields. They will cite specific examples and applications and comment on the findings of other students. This exercise will rely on an academic web-based discussion board.
 
 ## References
 
