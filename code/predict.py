@@ -120,7 +120,7 @@ def main():
                     movie = prepare_movie_from_row(row)
                     movie = append_to_movie(movie, movie_casts, row['id'])
                     movies.append(movie)
-                    if movie['Action'] == 1:
+                    if row['prediction'] == '1':
                         likes.append(1)
                     else:
                         likes.append(0)
